@@ -6,7 +6,7 @@
   "private": true,
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -b src"
   },
   "dependencies": {
   },
@@ -32,5 +32,5 @@
     "url": "https://github.com/Pengulets/metagen/issues"
   },
   "homepage": "https://github.com/Pengulets/metagen#readme",
-	"prettier": "@sapphire/prettier-config"
+  "prettier": "@sapphire/prettier-config"
 }
