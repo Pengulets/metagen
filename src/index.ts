@@ -14,7 +14,7 @@ rimraf.sync(OUT_DIR);
 
 fs.mkdirSync(OUT_DIR);
 
-for (let i = 1; i <= 1024; i++) {
+for (let i = 1; i <= 2048; i++) {
 	const call = callAttributes();
 
 	out_meta.push({
