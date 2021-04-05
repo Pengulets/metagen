@@ -25,3 +25,5 @@ export class LootTable {
 		return this.items.map((item: LootItem) => item.dropRate).reduce((total: number, sum: number) => (total += sum));
 	}
 }
+
+export default LootTable;
