@@ -133,7 +133,6 @@ export const Background = new LootTable() //
 	.addItem(['Ao', '#008000'], 162)
 	.addItem(['Brass', '#b5a642'], 162)
 	.addItem(['Ku Crimson', '#e8000d'], 162)
-	.addItem(['Magic Mint', '#aaf0d1'], 162)
 	.addItem(['Quartz', '#51484f'], 162)
 	.addItem(['Bistre', '#3d2b1f'], 161)
 	.addItem(['Bittersweet', '#fe6f5e'], 161)
