@@ -14,7 +14,7 @@ rimraf.sync(OUT_DIR);
 
 fs.mkdirSync(OUT_DIR);
 
-for (let i = 1; i <= 2048; i++) {
+for (let i = 1; i <= 16; i++) {
 	const call = callAttributes();
 
 	out_meta.push({
@@ -29,7 +29,7 @@ for (let i = 1; i <= 2048; i++) {
 }
 
 fs.writeFileSync(OUT_METADATA, JSON.stringify(out_meta, null, 2));
-fs.writeFileSync(OUT_IGLOO, JSON.stringify(out_igloo, null, 2));
+fs.writeFileSync(OUT_IGLOO, JSON.stringify({ Pengulets: out_igloo }, null, 2));
 
 export interface Metadata {
 	name: string;
