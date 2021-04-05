@@ -6,7 +6,7 @@ import rimraf from 'rimraf';
 const out_meta: Metadata[] = [];
 const out_igloo: Igloo[] = [];
 
-const OUT_DIR = path.join(__dirname, 'metadata');
+const OUT_DIR = path.join(__dirname, '..', 'metadata');
 const OUT_METADATA = path.join(OUT_DIR, 'metadata.json');
 const OUT_IGLOO = path.join(OUT_DIR, 'igloo.json');
 
