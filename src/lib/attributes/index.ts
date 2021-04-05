@@ -12,8 +12,12 @@ export const callAttributes = () => {
 	attributes.forEach((attr) => {
 		const attribute = attr.call(null);
 
-		outMeta.push(attribute[0]);
-		attribute[1] ? outIgloo.push(attribute[1]) : null;
+		Array.isArray(attribute[0]) ? outMeta.push(...attribute[0]) : outMeta.push(attribute[0]);
+		attribute[1] //
+			? Array.isArray(attribute[1])
+				? outIgloo.push(...attribute[1])
+				: outIgloo.push(attribute[1])
+			: null;
 	});
 
 	return {
@@ -33,4 +37,4 @@ export interface IglooStep {
 	Value: string | number;
 }
 
-export type AttributeReturn = [attribute: Attribute, Igloo?: IglooStep];
+export type AttributeReturn = [attribute: Attribute | Attribute[], Igloo?: IglooStep | IglooStep[]];

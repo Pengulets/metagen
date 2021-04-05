@@ -5,14 +5,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#98777b"
+          "Value": "#997a8d"
         },
         {
           "Step": 1,
-          "Value": "#A2BF8E"
+          "Value": "#CEC6B3"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -22,14 +22,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#fffff0"
+          "Value": "#50404d"
         },
         {
           "Step": 1,
-          "Value": "#494233"
+          "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -39,14 +39,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#71a6d2"
+          "Value": "#da3287"
         },
         {
           "Step": 1,
-          "Value": "#CEC6B3"
+          "Value": "#F35D8B"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -56,14 +56,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#ff0"
+          "Value": "#a32638"
         },
         {
           "Step": 1,
-          "Value": "#F35D8B"
+          "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -73,14 +73,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#f96"
+          "Value": "#004040"
         },
         {
           "Step": 1,
           "Value": "#494233"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -90,14 +90,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#882d17"
+          "Value": "#8b4513"
         },
         {
           "Step": 1,
-          "Value": "#A2BF8E"
+          "Value": "#F35D8B"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -107,14 +107,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#c2b280"
+          "Value": "#71a6d2"
         },
         {
           "Step": 1,
-          "Value": "#F35D8B"
+          "Value": "#D1DADF"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -124,14 +124,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#deb887"
+          "Value": "#353839"
         },
         {
           "Step": 1,
-          "Value": "#F1F1F1"
+          "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -141,14 +141,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#00b7eb"
+          "Value": "#3cd070"
         },
         {
           "Step": 1,
-          "Value": "#F35D8B"
+          "Value": "#CEC6B3"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -158,14 +158,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#ff7f50"
+          "Value": "#e6e8fa"
         },
         {
           "Step": 1,
-          "Value": "#CEC6B3"
+          "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -175,14 +175,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#c71585"
+          "Value": "#18453b"
         },
         {
           "Step": 1,
           "Value": "#494233"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -192,14 +192,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#ab4e52"
+          "Value": "#ff1493"
         },
         {
           "Step": 1,
-          "Value": "#F35D8B"
+          "Value": "#D1DADF"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -209,14 +209,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#ff7e00"
+          "Value": "#f08080"
         },
         {
           "Step": 1,
-          "Value": "#494233"
+          "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -226,14 +226,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#ab4e52"
+          "Value": "#f88379"
         },
         {
           "Step": 1,
-          "Value": "#F35D8B"
+          "Value": "#494233"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -243,14 +243,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#f4c2c2"
+          "Value": "#fada5e"
         },
         {
           "Step": 1,
-          "Value": "#A2BF8E"
+          "Value": "#CEC6B3"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
@@ -260,14 +260,14 @@
       "steps": [
         {
           "Step": 0,
-          "Value": "#fffaf0"
+          "Value": "#e32636"
         },
         {
           "Step": 1,
           "Value": "#A2BF8E"
         },
         {
-          "Step": 1,
+          "Step": 2,
           "Value": "#000000"
         }
       ]
