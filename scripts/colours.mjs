@@ -1,3 +1,4 @@
+// https://github.com/codebrainz/color-names/blob/master/output/colors.csv
 const colours = [
 	['Air Force Blue (Raf)', '#5d8aa8'],
 	['Air Force Blue (Usaf)', '#00308f'],

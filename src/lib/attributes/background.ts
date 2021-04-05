@@ -2,6 +2,7 @@ import { AttributeReturn } from '.';
 import { LootTable } from '../LootTable';
 
 // https://www.schemecolor.com/pastella.php
+// https://github.com/codebrainz/color-names/blob/master/output/colors.csv
 export const Background = new LootTable() //
 	.addItem(['Little Boy Blue', '#6ca0dc'], 246)
 	.addItem(['Bottle Green', '#006a4e'], 244)
