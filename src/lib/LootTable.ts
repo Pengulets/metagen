@@ -4,7 +4,7 @@ import { randomInRange } from './utils/utils';
 export class LootTable {
 	public items: LootItem[] = [];
 
-	public addItem(item: string | [name: string, value: string], dropRate: number) {
+	public addItem(item: LootItemValue, dropRate: number) {
 		this.items.push(new LootItem(item, dropRate));
 		return this;
 	}

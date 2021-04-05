@@ -1,7 +1,8 @@
 import { background } from './background';
 import { base } from './base';
+import { secret } from './secret';
 
-export const attributes = [background, base];
+export const attributes = [background, base, secret];
 
 export const callAttributes = () => {
 	const outMeta: Attribute[] = [];
@@ -11,7 +12,7 @@ export const callAttributes = () => {
 		const attribute = attr.call(null);
 
 		outMeta.push(attribute[0]);
-		outIgloo.push(attribute[1]);
+		attribute[1] ? outIgloo.push(attribute[1]) : null;
 	});
 
 	return {
@@ -31,4 +32,4 @@ export interface IglooStep {
 	Value: string | number;
 }
 
-export type AttributeReturn = [attribute: Attribute, Igloo: IglooStep];
+export type AttributeReturn = [attribute: Attribute, Igloo?: IglooStep];
