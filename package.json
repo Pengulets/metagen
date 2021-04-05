@@ -9,12 +9,14 @@
     "build": "tsc -b src"
   },
   "dependencies": {
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "@sapphire/eslint-config": "^3.0.3",
     "@sapphire/prettier-config": "^1.0.9",
     "@sapphire/ts-config": "^2.1.1",
     "@types/node": "^14.14.37",
+    "@types/rimraf": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^4.20.0",
     "@typescript-eslint/parser": "^4.20.0",
     "eslint": "^7.23.0",
