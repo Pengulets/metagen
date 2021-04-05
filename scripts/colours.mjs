@@ -877,5 +877,5 @@ colourWeights.sort((a, b) => b[1] - a[1]);
 
 colourWeights.forEach((cw) => {
 	// eslint-disable-next-line prettier/prettier
-	console.log(`.addItem(['${cw[0].join("','").replace(/'/gi, '\'')}'], ${cw[1]})`);
+	console.log(`.addItem(['${cw[0].join("','").replace(/'/gi, '\'')}'], ${cw[1].toUpperCase()})`);
 });
