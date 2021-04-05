@@ -3,6 +3,7 @@ import { LootTable } from '../LootTable';
 
 // https://www.schemecolor.com/pastella.php
 // https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+// TODO: Possibly make background colour only be shown in the OpenSea interface and not on the image
 export const Background = new LootTable() //
 	.addItem(['Little Boy Blue', '#6ca0dc'], 246)
 	.addItem(['Bottle Green', '#006a4e'], 244)
