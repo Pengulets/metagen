@@ -8,7 +8,7 @@ export const Base = new LootTable() //
 	.addItem(['Dragon Fruit', '#F35D8B'], 75)
 	.addItem(['Muddy', '#494233'], 60)
 	.addItem(['Dusty', '#CEC6B3'], 50)
-	.addItem(['Gretmatter', '#D1DADF'], 20)
+	.addItem(['Greymatter', '#D1DADF'], 20)
 	.addItem(['Pure', '#F1F1F1'], 1);
 
 export const base = (): AttributeReturn => {
