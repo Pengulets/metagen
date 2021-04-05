@@ -2,7 +2,7 @@ import { AttributeReturn } from '.';
 import { LootTable } from '../LootTable';
 
 // https://www.schemecolor.com/pastella.php
-export const Base = new LootTable() //
+export const Background = new LootTable() //
 	.addItem(['Dutch White', '#F2DDC0'], 100)
 	.addItem(['Pale Robin Egg Blue', '#90DAD9'], 75)
 	.addItem(['Spanish Pink', '#F3BEBC'], 75)
@@ -14,8 +14,8 @@ export const Base = new LootTable() //
 	.addItem(['Pink Lavender', '#DAB5D2'], 20)
 	.addItem(['Magic Mint', '#ADEAC3'], 10);
 
-export const base = (): AttributeReturn => {
-	const _base = Base.dropItem() as [name: string, value: string];
+export const background = (): AttributeReturn => {
+	const _base = Background.dropItem() as [name: string, value: string];
 
 	return [
 		{

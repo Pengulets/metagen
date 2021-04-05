@@ -1,6 +1,6 @@
-import { base } from './base';
+import { background } from './background';
 
-export const attributes = [base];
+export const attributes = [background];
 
 export const callAttributes = () => {
 	const outMeta: Attribute[] = [];
