@@ -12,19 +12,20 @@ export const Background = new LootTable() //
 	.addItem(['Light Orchid', '#E7A8E3'], 20)
 	.addItem(['Maximum Blue Purple', '#A09CF3'], 20)
 	.addItem(['Pink Lavender', '#DAB5D2'], 20)
-	.addItem(['Magic Mint', '#ADEAC3'], 10);
+	.addItem(['Magic Mint', '#ADEAC3'], 10)
+	.addItem(['Pengu', '#00B9FF'], 1);
 
 export const background = (): AttributeReturn => {
-	const _base = Background.dropItem() as [name: string, value: string];
+	const _background = Background.dropItem() as [name: string, value: string];
 
 	return [
 		{
 			trait_type: 'Background',
-			value: _base[0]
+			value: _background[0]
 		},
 		{
 			Step: 0,
-			Value: _base[1]
+			Value: _background[1]
 		}
 	];
 };
