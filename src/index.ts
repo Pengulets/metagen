@@ -11,7 +11,6 @@ const OUT_METADATA = path.join(OUT_DIR, 'metadata.json');
 const OUT_IGLOO = path.join(OUT_DIR, 'igloo.json');
 
 rimraf.sync(OUT_DIR);
-
 fs.mkdirSync(OUT_DIR);
 
 for (let i = 1; i <= 16; i++) {

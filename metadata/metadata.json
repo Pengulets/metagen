@@ -5,15 +5,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Camel"
+        "value": "Bazaar"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Dusty"
+        "value": "Light Mint"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
-        "value": "Se1"
+        "value": "Se7"
       }
     ]
   },
@@ -23,11 +27,15 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Ua Red"
+        "value": "Ivory"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Light Mint"
+        "value": "Muddy"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
@@ -41,15 +49,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Ochre"
+        "value": "Iceberg"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Light Mint"
+        "value": "Dusty"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
-        "value": "Se5"
+        "value": "Se1"
       }
     ]
   },
@@ -59,15 +71,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Old Lace"
+        "value": "Electric Yellow"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Dusty"
+        "value": "Dragon Fruit"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
-        "value": "Se4"
+        "value": "Se1"
       }
     ]
   },
@@ -77,15 +93,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Electric Green"
+        "value": "Pink-Orange"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Dragon Fruit"
+        "value": "Muddy"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
-        "value": "Se2"
+        "value": "Se1"
       }
     ]
   },
@@ -95,15 +115,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Medium Champagne"
+        "value": "Sienna"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Dragon Fruit"
+        "value": "Light Mint"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
-        "value": "Se2"
+        "value": "Se1"
       }
     ]
   },
@@ -113,15 +137,19 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Banana Mania"
+        "value": "Sand"
       },
       {
         "trait_type": "Base Colour",
         "value": "Dragon Fruit"
       },
       {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
         "trait_type": "Secret",
-        "value": "Se2"
+        "value": "Se3"
       }
     ]
   },
@@ -131,119 +159,15 @@
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Coral"
+        "value": "Burlywood"
       },
       {
         "trait_type": "Base Colour",
-        "value": "Dragon Fruit"
+        "value": "Pure"
       },
       {
-        "trait_type": "Secret",
-        "value": "Se1"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 9,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Carrot Orange"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Light Mint"
-      },
-      {
-        "trait_type": "Secret",
-        "value": "Se1"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 10,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Dogwood Rose"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Greymatter"
-      },
-      {
-        "trait_type": "Secret",
-        "value": "Se1"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 11,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Cerulean Blue"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Dragon Fruit"
-      },
-      {
-        "trait_type": "Secret",
-        "value": "Se4"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 12,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Deep Tuscan Red"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Dusty"
-      },
-      {
-        "trait_type": "Secret",
-        "value": "Se4"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 13,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Mountain Meadow"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Light Mint"
-      },
-      {
-        "trait_type": "Secret",
-        "value": "Se4"
-      }
-    ]
-  },
-  {
-    "name": "",
-    "index": 14,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow Orange"
-      },
-      {
-        "trait_type": "Base Colour",
-        "value": "Light Mint"
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
@@ -253,15 +177,85 @@
   },
   {
     "name": "",
-    "index": 15,
+    "index": 9,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Old Gold"
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Dragon Fruit"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se2"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Coral"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Dusty"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se3"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Medium Violet-Red"
       },
       {
         "trait_type": "Base Colour",
         "value": "Muddy"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se2"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Redwood"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Dragon Fruit"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
       },
       {
         "trait_type": "Secret",
@@ -271,19 +265,89 @@
   },
   {
     "name": "",
-    "index": 16,
+    "index": 13,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Rich Lavender"
+        "value": "Amber"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Muddy"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se1"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Redwood"
       },
       {
         "trait_type": "Base Colour",
         "value": "Dragon Fruit"
       },
       {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
         "trait_type": "Secret",
         "value": "Se1"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tea Rose"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Light Mint"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se3"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "index": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Floral White"
+      },
+      {
+        "trait_type": "Base Colour",
+        "value": "Light Mint"
+      },
+      {
+        "trait_type": "Body Colour",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Secret",
+        "value": "Se5"
       }
     ]
   }

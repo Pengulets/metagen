@@ -1,210 +1,276 @@
-[
-  {
-    "index": 1,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#c19a6b"
-      },
-      {
-        "Step": 1,
-        "Value": "#CEC6B3"
-      }
-    ]
-  },
-  {
-    "index": 2,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#d9004c"
-      },
-      {
-        "Step": 1,
-        "Value": "#A2BF8E"
-      }
-    ]
-  },
-  {
-    "index": 3,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#c72"
-      },
-      {
-        "Step": 1,
-        "Value": "#A2BF8E"
-      }
-    ]
-  },
-  {
-    "index": 4,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#fdf5e6"
-      },
-      {
-        "Step": 1,
-        "Value": "#CEC6B3"
-      }
-    ]
-  },
-  {
-    "index": 5,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#0f0"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  },
-  {
-    "index": 6,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#f3e5ab"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  },
-  {
-    "index": 7,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#fae7b5"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  },
-  {
-    "index": 8,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#ff7f50"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  },
-  {
-    "index": 9,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#ed9121"
-      },
-      {
-        "Step": 1,
-        "Value": "#A2BF8E"
-      }
-    ]
-  },
-  {
-    "index": 10,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#d71868"
-      },
-      {
-        "Step": 1,
-        "Value": "#D1DADF"
-      }
-    ]
-  },
-  {
-    "index": 11,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#2a52be"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  },
-  {
-    "index": 12,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#66424d"
-      },
-      {
-        "Step": 1,
-        "Value": "#CEC6B3"
-      }
-    ]
-  },
-  {
-    "index": 13,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#30ba8f"
-      },
-      {
-        "Step": 1,
-        "Value": "#A2BF8E"
-      }
-    ]
-  },
-  {
-    "index": 14,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#ffae42"
-      },
-      {
-        "Step": 1,
-        "Value": "#A2BF8E"
-      }
-    ]
-  },
-  {
-    "index": 15,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#cfb53b"
-      },
-      {
-        "Step": 1,
-        "Value": "#494233"
-      }
-    ]
-  },
-  {
-    "index": 16,
-    "steps": [
-      {
-        "Step": 0,
-        "Value": "#a76bcf"
-      },
-      {
-        "Step": 1,
-        "Value": "#F35D8B"
-      }
-    ]
-  }
-]
+{
+  "Pengulets": [
+    {
+      "index": 1,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#98777b"
+        },
+        {
+          "Step": 1,
+          "Value": "#A2BF8E"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#fffff0"
+        },
+        {
+          "Step": 1,
+          "Value": "#494233"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#71a6d2"
+        },
+        {
+          "Step": 1,
+          "Value": "#CEC6B3"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#ff0"
+        },
+        {
+          "Step": 1,
+          "Value": "#F35D8B"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#f96"
+        },
+        {
+          "Step": 1,
+          "Value": "#494233"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#882d17"
+        },
+        {
+          "Step": 1,
+          "Value": "#A2BF8E"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#c2b280"
+        },
+        {
+          "Step": 1,
+          "Value": "#F35D8B"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#deb887"
+        },
+        {
+          "Step": 1,
+          "Value": "#F1F1F1"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#00b7eb"
+        },
+        {
+          "Step": 1,
+          "Value": "#F35D8B"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#ff7f50"
+        },
+        {
+          "Step": 1,
+          "Value": "#CEC6B3"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#c71585"
+        },
+        {
+          "Step": 1,
+          "Value": "#494233"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#ab4e52"
+        },
+        {
+          "Step": 1,
+          "Value": "#F35D8B"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#ff7e00"
+        },
+        {
+          "Step": 1,
+          "Value": "#494233"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#ab4e52"
+        },
+        {
+          "Step": 1,
+          "Value": "#F35D8B"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#f4c2c2"
+        },
+        {
+          "Step": 1,
+          "Value": "#A2BF8E"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "steps": [
+        {
+          "Step": 0,
+          "Value": "#fffaf0"
+        },
+        {
+          "Step": 1,
+          "Value": "#A2BF8E"
+        },
+        {
+          "Step": 1,
+          "Value": "#000000"
+        }
+      ]
+    }
+  ]
+}
