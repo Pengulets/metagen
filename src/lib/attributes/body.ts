@@ -15,7 +15,7 @@ export const body = (): AttributeReturn => {
 			value: _body[0]
 		},
 		{
-			Step: 1,
+			Step: 2,
 			Value: _body[1]
 		}
 	];
