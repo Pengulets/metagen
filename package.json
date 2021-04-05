@@ -6,7 +6,11 @@
   "private": true,
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc -b src"
+    "build": "tsc -b src",
+    "build:remove": "rimraf dist",
+    "metadata": "yarn metadata:clean && yarn metadata:generate",
+    "metadata:clean": "rimraf metadata",
+    "metadata:generate": "yarn build:remove && yarn build && node ."
   },
   "dependencies": {
     "rimraf": "^3.0.2"
