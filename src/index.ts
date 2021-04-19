@@ -13,7 +13,7 @@ const OUT_IGLOO = path.join(OUT_DIR, 'igloo.json');
 rimraf.sync(OUT_DIR);
 fs.mkdirSync(OUT_DIR);
 
-for (let i = 1; i <= 16; i++) {
+for (let i = 1; i <= 256; i++) {
 	const call = callAttributes();
 
 	out_meta.push({
